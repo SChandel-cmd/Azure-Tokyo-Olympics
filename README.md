@@ -6,6 +6,10 @@
 
 This project focuses on leveraging Azure services such as Azure Data Factory, Azure Databricks, and Azure Synapse Analytics to process, transform, and analyze Tokyo Olympics data. The data is initially stored in CSV files and uploaded to Azure Storage on Data Lake Gen2. Azure Data Factory orchestrates data movement, Azure Databricks handles data processing and transformation, and Azure Synapse Analytics is utilized for querying and analyzing the transformed data stored in SQL tables.
 
+## Dataset
+The ![dataset](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo?resource=download) was picked from kaggle.
+
+
 ## Steps
 
 ### 1. Setting up Azure Storage Account
